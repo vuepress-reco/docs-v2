@@ -1,1 +1,0 @@
-import{_ as t,p as c,q as o,s as e,R as s}from"./framework-c873e247.js";const l={},n=e("p",null,[s("如果需要对主题样式进行覆盖，只需要在 "),e("code",null,".vuepress/styles/index.css"),s(" 中书写需要覆盖的样式的即可，书写规范请参考 "),e("a",{href:"/docs/guide/style"},"指南/样式"),s("。")],-1),_=[n];function r(a,d){return c(),o("div",null,_)}const i=t(l,[["render",r],["__file","custom-style.html.vue"]]);export{i as default};

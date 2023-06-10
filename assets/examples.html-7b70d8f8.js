@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-a31bfa02","path":"/docs/others/examples.html","title":"案例","lang":"zh-CN","frontmatter":{"title":"案例","isShowComments":false},"headers":[],"git":{"createdTime":1682359713000,"updatedTime":1682359713000,"contributors":[{"name":"reco_luan","email":"recoluan@qq.com","commits":1}]},"filePathRelative":"docs/others/examples.md"}');export{e as data};
